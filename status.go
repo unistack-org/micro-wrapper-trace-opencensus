@@ -3,10 +3,8 @@ package opencensus
 import (
 	"fmt"
 
-	microerr "github.com/micro/go-micro/v2/errors"
-
+	microerr "github.com/unistack-org/micro/v3/errors"
 	"go.opencensus.io/trace"
-
 	"google.golang.org/genproto/googleapis/rpc/code"
 )
 
