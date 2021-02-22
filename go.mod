@@ -8,4 +8,4 @@ require (
 	google.golang.org/genproto v0.0.0-20210207032614-bba0dbe2a9ea
 )
 
-replace github.com/coreos/etcd => github.com/ozonru/etcd v3.3.20-grpc1.27-origmodule+incompatible
+replace github.com/coreos/etcd => github.com/ozonru/etcd v3.4.7+incompatible
