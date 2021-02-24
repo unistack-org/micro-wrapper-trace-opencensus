@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/micro/go-micro/v2 v2.9.1-0.20200716153311-f9bf56239306
-	go.opencensus.io v0.22.6
+	go.opencensus.io v0.23.0
 	google.golang.org/genproto v0.0.0-20210207032614-bba0dbe2a9ea
 )
 
